@@ -1,0 +1,6 @@
+{
+  "name": "Ask AI - Smart Assistant",
+  "description": "An elegant AI assistant with silky luxury aesthetics, 3D input box, Telegram send button, red action button, and Claude-inspired chats drawer and management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
